@@ -1,0 +1,121 @@
+============================================================
+VEHICLE ALLOCATION SUMMARY
+============================================================
+
+Total vehicles allocated: 108
+Total clusters: 18
+
+ALLOCATION BY CLUSTER:
+------------------------------------------------------------
+
+Ziyaguda:
+  • GVPs: 294
+  • Waste: 125.3 tonnes
+  • Vehicles allocated: 9
+    - Mini Tipper High: 8
+    - Mini Tipper Low: 1
+
+IBT:
+  • GVPs: 262
+  • Waste: 110.8 tonnes
+  • Vehicles allocated: 8
+    - Mini Tipper High: 6
+    - Mini Tipper Medium: 2
+
+Jubilee Hills Road No 51:
+  • GVPs: 178
+  • Waste: 75.8 tonnes
+  • Vehicles allocated: 10
+    - Mini Tipper Medium: 9
+    - Mini Tipper Low: 1
+
+Chacha Nehuru Park:
+  • GVPs: 147
+  • Waste: 63.2 tonnes
+  • Vehicles allocated: 8
+    - Mini Tipper Medium: 8
+
+Jalagam Vengal Rao Park:
+  • GVPs: 113
+  • Waste: 50.3 tonnes
+  • Vehicles allocated: 7
+    - Mini Tipper Medium: 7
+
+Singareni Colony:
+  • GVPs: 97
+  • Waste: 41.6 tonnes
+  • Vehicles allocated: 9
+    - Mini Tipper Medium: 2
+    - Mini Tipper Low: 7
+
+Mir Alam Tank:
+  • GVPs: 86
+  • Waste: 35.2 tonnes
+  • Vehicles allocated: 9
+    - Mini Tipper Low: 9
+
+Auto Nagar:
+  • GVPs: 80
+  • Waste: 33.9 tonnes
+  • Vehicles allocated: 9
+    - Mini Tipper Low: 9
+
+Kattedan:
+  • GVPs: 59
+  • Waste: 26.3 tonnes
+  • Vehicles allocated: 7
+    - Mini Tipper Low: 7
+
+Bandlaguda:
+  • GVPs: 50
+  • Waste: 21.4 tonnes
+  • Vehicles allocated: 6
+    - Mini Tipper Low: 6
+
+Nagole:
+  • GVPs: 44
+  • Waste: 19.2 tonnes
+  • Vehicles allocated: 5
+    - Mini Tipper Low: 5
+
+Sanath Nagar:
+  • GVPs: 41
+  • Waste: 15.8 tonnes
+  • Vehicles allocated: 4
+    - Mini Tipper Low: 4
+
+Devender Nagar:
+  • GVPs: 32
+  • Waste: 13.7 tonnes
+  • Vehicles allocated: 4
+    - Mini Tipper Low: 4
+
+Saket:
+  • GVPs: 23
+  • Waste: 10.8 tonnes
+  • Vehicles allocated: 3
+    - Mini Tipper Low: 3
+
+Peoples Plaza:
+  • GVPs: 29
+  • Waste: 10.8 tonnes
+  • Vehicles allocated: 3
+    - Mini Tipper Low: 3
+
+Hasthinapuram:
+  • GVPs: 21
+  • Waste: 9.2 tonnes
+  • Vehicles allocated: 3
+    - Mini Tipper Low: 3
+
+Lalapet Flyover:
+  • GVPs: 10
+  • Waste: 4.8 tonnes
+  • Vehicles allocated: 2
+    - Mini Tipper Low: 2
+
+Mallapur:
+  • GVPs: 11
+  • Waste: 4.4 tonnes
+  • Vehicles allocated: 2
+    - Mini Tipper Low: 2
