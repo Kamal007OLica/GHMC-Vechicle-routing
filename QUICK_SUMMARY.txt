@@ -1,0 +1,8 @@
+QUICK SUMMARY - Key Metrics:
+========================================
+Vehicles: 108
+Trips: 108
+Waste: 666.2 tonnes
+Distance: 879.8 km
+Hours: 368.8
+Utilization: 42.7%
