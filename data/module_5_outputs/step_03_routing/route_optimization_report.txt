@@ -1,0 +1,156 @@
+============================================================
+ROUTE OPTIMIZATION REPORT
+============================================================
+
+OVERALL SUMMARY:
+• Total routes optimized: 108
+• Total GVP stops covered: 1551
+• Total route distance: 879.84 km
+• Total waste allocated: 666.23 tonnes
+
+CLUSTER-WISE ANALYSIS:
+------------------------------------------------------------
+
+Ziyaguda:
+  • Routes: 9
+  • Stops: 303
+  • Distance: 90.80 km
+  • Waste: 128.63 tonnes
+  • Avg utilization: 96.4%
+  • Avg route distance: 10.09 km
+
+IBT:
+  • Routes: 8
+  • Stops: 256
+  • Distance: 64.39 km
+  • Waste: 108.70 tonnes
+  • Avg utilization: 96.8%
+  • Avg route distance: 8.05 km
+
+Jubilee Hills Road No 51:
+  • Routes: 10
+  • Stops: 168
+  • Distance: 80.92 km
+  • Waste: 73.33 tonnes
+  • Avg utilization: 96.1%
+  • Avg route distance: 8.09 km
+
+Chacha Nehuru Park:
+  • Routes: 8
+  • Stops: 145
+  • Distance: 60.58 km
+  • Waste: 62.52 tonnes
+  • Avg utilization: 97.7%
+  • Avg route distance: 7.57 km
+
+Jalagam Vengal Rao Park:
+  • Routes: 7
+  • Stops: 113
+  • Distance: 45.08 km
+  • Waste: 50.33 tonnes
+  • Avg utilization: 89.9%
+  • Avg route distance: 6.44 km
+
+Singareni Colony:
+  • Routes: 9
+  • Stops: 91
+  • Distance: 45.35 km
+  • Waste: 41.43 tonnes
+  • Avg utilization: 93.4%
+  • Avg route distance: 5.04 km
+
+Mir Alam Tank:
+  • Routes: 9
+  • Stops: 81
+  • Distance: 48.99 km
+  • Waste: 33.61 tonnes
+  • Avg utilization: 93.4%
+  • Avg route distance: 5.44 km
+
+Auto Nagar:
+  • Routes: 9
+  • Stops: 78
+  • Distance: 76.61 km
+  • Waste: 33.64 tonnes
+  • Avg utilization: 93.5%
+  • Avg route distance: 8.51 km
+
+Kattedan:
+  • Routes: 7
+  • Stops: 58
+  • Distance: 85.21 km
+  • Waste: 25.51 tonnes
+  • Avg utilization: 91.1%
+  • Avg route distance: 12.17 km
+
+Bandlaguda:
+  • Routes: 6
+  • Stops: 50
+  • Distance: 53.78 km
+  • Waste: 21.41 tonnes
+  • Avg utilization: 89.2%
+  • Avg route distance: 8.96 km
+
+Nagole:
+  • Routes: 5
+  • Stops: 42
+  • Distance: 26.44 km
+  • Waste: 18.07 tonnes
+  • Avg utilization: 90.4%
+  • Avg route distance: 5.29 km
+
+Sanath Nagar:
+  • Routes: 4
+  • Stops: 40
+  • Distance: 31.62 km
+  • Waste: 15.35 tonnes
+  • Avg utilization: 95.9%
+  • Avg route distance: 7.91 km
+
+Devender Nagar:
+  • Routes: 4
+  • Stops: 32
+  • Distance: 27.96 km
+  • Waste: 13.71 tonnes
+  • Avg utilization: 85.7%
+  • Avg route distance: 6.99 km
+
+Saket:
+  • Routes: 3
+  • Stops: 23
+  • Distance: 45.86 km
+  • Waste: 10.84 tonnes
+  • Avg utilization: 90.3%
+  • Avg route distance: 15.29 km
+
+Peoples Plaza:
+  • Routes: 3
+  • Stops: 29
+  • Distance: 17.99 km
+  • Waste: 10.76 tonnes
+  • Avg utilization: 89.7%
+  • Avg route distance: 6.00 km
+
+Hasthinapuram:
+  • Routes: 3
+  • Stops: 21
+  • Distance: 41.43 km
+  • Waste: 9.16 tonnes
+  • Avg utilization: 76.3%
+  • Avg route distance: 13.81 km
+
+Lalapet Flyover:
+  • Routes: 2
+  • Stops: 10
+  • Distance: 11.69 km
+  • Waste: 4.83 tonnes
+  • Avg utilization: 60.3%
+  • Avg route distance: 5.85 km
+
+Mallapur:
+  • Routes: 2
+  • Stops: 11
+  • Distance: 25.14 km
+  • Waste: 4.42 tonnes
+  • Avg utilization: 55.2%
+  • Avg route distance: 12.57 km
